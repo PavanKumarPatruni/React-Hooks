@@ -42,6 +42,7 @@ function TodoList() {
 
     return(
         <div className="app">
+            <div className="title">TODO</div>
             <div className="todo-list">
             {
                 todos.map((todo, index) => (

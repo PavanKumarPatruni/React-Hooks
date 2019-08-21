@@ -1,6 +1,6 @@
 # React Hooks
 
-1. Hooks are functions that let you “hook into” React state and lifecycle features from function components. 
+1. Hooks are functions that let you `hook into` React state and lifecycle features from function components. 
 2. Hooks don’t work inside classes — they let you use React without classes.
 3. React provides a few built-in Hooks like `useState`.
 

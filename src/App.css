@@ -9,6 +9,7 @@
   border-bottom: 1px solid #efefef;
   box-sizing: border-box;
   align-items: center;
+  color: darkblue;
 }
 
 .todo span {
@@ -20,14 +21,19 @@
 }
 
 .todo input {
+  color: darkblue;
   width: 100%;
   padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #00008b1c;
 }
 
 .todo button {
   background: darkblue;
   color: white;
-  padding: 10px;
+  padding: 10px 15px;
   outline: none;
   border: 0;
   border-radius: 5px;
@@ -35,4 +41,14 @@
   text-transform: uppercase;
   cursor: pointer;
   font-weight: 500;
+}
+
+.title {
+  text-align: center;
+  width: 100%;
+  font-size: 50px;
+  padding: 20px;
+  color: darkblue;
+  font-weight: 600;
+  background: #00008b1c;
 }
