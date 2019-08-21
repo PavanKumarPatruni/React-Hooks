@@ -52,4 +52,5 @@
   color: darkblue;
   font-weight: 600;
   background: #00008b1c;
+  box-sizing: border-box;
 }
